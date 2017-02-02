@@ -5,6 +5,7 @@ We can search for:
 - all products for employees from given department,
 - single product from all departments,
 - single product from single department,
+
 Database format: 
 EmployeeID;FirstName & LastName;ProductName;ReleaseDate[YYYY-MM-DD];Quantity;ProductProperties;Department
 example (see also exampledatabase.txt):

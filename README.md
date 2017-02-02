@@ -7,6 +7,9 @@ We can search for:
 - single product from single department,
 
 Database format: 
+
 EmployeeID;FirstName & LastName;ProductName;ReleaseDate[YYYY-MM-DD];Quantity;ProductProperties;Department
+
 example (see also exampledatabase.txt):
+
 001;John Smith;Safety shoes;2017-12-01;1;Size 8;DepartmentName

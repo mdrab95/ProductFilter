@@ -1,0 +1,14 @@
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\bin\Debug\ProductFilter.exe.config
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\App.g.cs
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter_MarkupCompile.cache
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\bin\Debug\ProductFilter.exe
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\bin\Debug\ProductFilter.pdb
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\MainWindow.g.cs
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter_MarkupCompile.lref
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\MainWindow.baml
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.g.resources
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.Properties.Resources.resources
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.csproj.GenerateResource.Cache
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.exe
+c:\users\ace\documents\visual studio 2015\Projects\ProductFilter\ProductFilter\obj\Debug\ProductFilter.pdb
